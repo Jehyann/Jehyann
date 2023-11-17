@@ -1,6 +1,6 @@
 <p align="center"> 
   <samp>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B1F7&random=false&width=435&lines=Student+in+Video+Game+Programming" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFADBE&random=false&width=435&lines=Student+in+Video+Game+Programming" alt="Typing SVG" /></a>
   </samp>
 </p>
 
@@ -24,7 +24,7 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jehyann&repo=UnityInspiredGameObjects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Jehyann/UnityInspiredGameObjects)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jehyann&repo=UnityInspiredGameObjects&border_color=FFADBE&bg_color=0D1117&title_color=FFADBE&text_color=FFADBE&icon_color=7F3FBF)](https://github.com/Jehyann/UnityInspiredGameObjects)
 
 <br/>
 
