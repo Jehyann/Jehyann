@@ -24,7 +24,7 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jehyann&repo=UnityInspiredGameObjects&title_color=FFADBE&bg_color=0D1117&icon_color=FFADBE)](https://github.com/Jehyann/UnityInspiredGameObjects)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jehyann&repo=UnityInspiredGameObjects&title_color=C9D1D9&bg_color=0D1117&icon_color=FFADBE)](https://github.com/Jehyann/UnityInspiredGameObjects)
 
 <br/>
 
