@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! I am Jehyann 👋🏻</h1>
+<h2 align="center">Hi ! I am Jehyann 👋🏻</h2>
 <h3 align="center">I am a 21 years old developer from France.</h3>
 
 <p align="center"> 
