@@ -1,5 +1,4 @@
 <h3 align="center">Hi ! I am Jehyann 👋🏻</h3>
-<p align="center">I am a 21 years old developer from France.</p>
 
 <p align="center"> 
   <samp>
