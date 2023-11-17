@@ -1,7 +1,4 @@
-<h1 align="center">
-        <samp>&gt; Hi ! I am Jehyann 👋🏻
-        </samp>
-</h1>
+<h1 align="center">Hi ! I am Jehyann 👋🏻</h1>
 
 <p align="center"> 
   <samp>
