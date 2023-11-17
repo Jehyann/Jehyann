@@ -1,3 +1,8 @@
+<h1 align="center">
+        <samp>&gt; Hi ! I am Jehyann 👋🏻
+        </samp>
+</h1>
+
 <p align="center"> 
   <samp>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFADBE&random=false&width=435&lines=Student+in+Video+Game+Programming" alt="Typing SVG" /></a>
