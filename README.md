@@ -27,6 +27,13 @@
 ## Some Of My Projects
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jehyann&repo=UnityInspiredGameObjects&border_color=0D1117&title_color=ffffff&bg_color=2C3138&text_color=ffffff&icon_color=FFADBE)](https://github.com/Jehyann/UnityInspiredGameObjects)
 
+<details> 
+  <summary><h2>Get to Know Me</h2></summary>
+  <p></p>
+</details>
+
+
+
 <!--
 <br/>
 //![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehyann&layout=compact)
