@@ -5,9 +5,9 @@
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFADBE&random=false&width=435&lines=LOOKING+FOR+SUMMER+2024+INTERNSHIP" alt="Typing SVG"/></a>
   </samp>
   <br/>
-  <a href="https://linktr.ee/jehyann"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Typing SVG" style="border-radius:50%"/></a>
-  <a href="https://hypothermiaoftheheart.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" alt="Typing SVG" style="border-radius:50%"/></a>
-  <a href="https://dribbble.com/Jehyann"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Typing SVG" style="border-radius:50%"/></a>
+  <a href="https://linktr.ee/jehyann"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Typing SVG" style="border-radius:50%"></a>
+  <a href="https://hypothermiaoftheheart.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" alt="Typing SVG" style="border-radius:50%"></a>
+  <a href="https://dribbble.com/Jehyann"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Typing SVG" style="border-radius:50%"></a>
 </p>
 
 ## Languages and Tools
