@@ -5,12 +5,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFADBE&random=false&width=435&lines=LOOKING+FOR+SUMMER+2024+INTERNSHIP" alt="Typing SVG" /></a>
   </samp>
 </p>
-<br/>
-
 ## Languages and Tools
 
 <p align="center"> 
-
+  
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PYT](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
