@@ -29,7 +29,9 @@
 
 <details> 
   <summary><h2>Get to Know Me</h2></summary>
-  <p></p>
+  <p>Hello! I'm Jehyann, a 21-year-old from France currently pursuing a Bachelor's degree in Game Technology and Programming at Gaming Campus Paris. I've dedicated two years to learning languages, starting with Arabic then Chinese.
+  My ultimate goal is to become a programmer in the field of artificial intelligence, with a strong desire to work abroad, especially in Japan. Outside of my studies, I have a passion for 3D modeling, virtual reality (VR), languages, and travel. I went alone to Japan at 16 and later explored Sweden.
+  Explore my coding and learning journey, where my dedication to AI, passion for 3D modeling, VR, languages, and love of travel converge! Join me as I navigate the exciting intersections of technology and creativity.</p>
 </details>
 
 
