@@ -4,6 +4,7 @@
   <samp>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFADBE&random=false&width=435&lines=LOOKING+FOR+SUMMER+2024+INTERNSHIP" alt="Typing SVG" /></a>
   </samp>
+  <a href="https://dribbble.com/Jehyann"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Typing SVG" /></a>
 </p>
 
 ## Languages and Tools
