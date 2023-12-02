@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <samp>
-    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D8581&random=false&width=435&lines=LOOKING+FOR+SUMMER+2024+INTERNSHIP" alt="Typing SVG"/></a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABDED7&random=false&width=435&lines=LOOKING+FOR+SUMMER+2024+INTERNSHIP" alt="Typing SVG"/></a>
   </samp>
   <br/>
   <a href="https://linktr.ee/jehyann"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Typing SVG"></a>
@@ -28,7 +28,7 @@
 <br/>
 
 ## Some Of My Projects
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jehyann&repo=UnityInspiredGameObjects&border_color=0D1117&title_color=ffffff&bg_color=2C3138&text_color=ffffff&icon_color=4D8581)](https://github.com/Jehyann/UnityInspiredGameObjects)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jehyann&repo=UnityInspiredGameObjects&border_color=0D1117&title_color=ffffff&bg_color=2C3138&text_color=ffffff&icon_color=ABDED7)](https://github.com/Jehyann/UnityInspiredGameObjects)
 
 <details> 
   <summary><h2>Get to Know Me</h2></summary>
