@@ -12,17 +12,10 @@
 
 ## Languages and Tools
 
-<p align="center"> 
-  
-![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PYT](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![BLD](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![UNI](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JVS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
 <br/>
@@ -34,7 +27,7 @@
   <summary><h2>Get to Know Me</h2></summary>
   <p align="justify">Hello! I'm Jehyann, a 21-year-old from France currently pursuing a Bachelor's degree in Game Technology and Programming at Gaming Campus Paris. I've also dedicated two years to learning languages, starting with Arabic then Chinese.<br/>
   My ultimate goal is to become a programmer in the field of artificial intelligence, with a strong desire to work abroad, especially in Japan. Outside of my studies, I have a passion for 3D modeling, virtual reality (VR), languages, and travel. I went alone to Japan at 16 and later explored Sweden.<br/>
-  Join me as I navigate the exciting intersections of technology and creativity.</p>
+  My work is highly inspired from the universe of Dune by Frank Herbert and Dark Souls games by FromSoftware. You can join my adventure my following my social medias !</p>
 </details>
 
 
