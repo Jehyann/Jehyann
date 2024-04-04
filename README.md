@@ -1,7 +1,7 @@
 <h3 align="center">Hi ! I am Jehyann 👋🏻</h3>
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=my+portfolio+website" alt="Typing SVG" /></a>
+  <a href="https://whoisjehyann.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=my+portfolio+website" alt="Typing SVG" /></a>
 </p>
 
 ## Languages and Tools
