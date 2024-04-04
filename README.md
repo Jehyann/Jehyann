@@ -1,15 +1,14 @@
 <h3 align="center">Hi ! I am Jehyann 👋🏻</h3>
 
 <p align="center"> 
-  <br/>
-  <a href="https://whoisjehyann.com">WEBSITE</a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=my+portfolio+website" alt="Typing SVG" /></a>
 </p>
 
 ## Languages and Tools
 
 <p align="center">
-  <a href="https://whoisjehyann.com">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=my+portfolio+website" alt="Typing SVG" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,unity,unreal,godot,blender,figma,github,visualstudio,vscode,dotnet" />
   </a>
 </p>
 
